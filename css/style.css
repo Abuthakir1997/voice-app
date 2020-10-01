@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+
+.banner{
+    margin: 250px auto;
+    text-align: center;
+}
+button{
+    padding: 20px 40px;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    color: #fff;
+    box-shadow: 2px 2px 2px #000;
+    border: none;
+   
+}
+h3{
+    color: #fff;
+    font-size: 30px;
+}
